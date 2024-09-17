@@ -9,3 +9,12 @@ h1{
 .center{
      text-align: center;
 }
+#b1{
+     display: flex;
+     justify-content: space-evenly;
+}
+.box{
+     width: 200px;
+     height: 200px;
+     background-color: chartreuse;
+}

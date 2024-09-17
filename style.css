@@ -1,9 +1,13 @@
-h1{
+body{
      margin: 0;
-     font-size: 100px;
+     /* border: border-box; */
+}
+h1{
+     margin: 0%;
+     font-size: 38px;
      color: dodgerblue;
      width: 100vw;
-     height: 20vw;
+     height: 10vw;
      background-color: #717171;
 }
 

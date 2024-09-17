@@ -1,8 +1,9 @@
 h1{
+     margin: 0;
      font-size: 100px;
      color: dodgerblue;
      width: 100vw;
-     height: auto;
+     height: 20vw;
      background-color: #717171;
 }
 
